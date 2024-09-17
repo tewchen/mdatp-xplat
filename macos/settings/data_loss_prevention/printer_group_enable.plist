@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>features</key>
+    <dict>
+      <key>dataLossPrevention</key>
+      <string>enabled</string>
+    </dict>
+    <key>dlp</key>
+    <dict>
+      <key>features</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>DLP_macOS15_local_network_access_enable</string>
+          <key>state</key>
+          <string>enabled</string>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</plist>
